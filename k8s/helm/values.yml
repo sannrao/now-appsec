@@ -3,8 +3,8 @@ replicaCount: 2
 mongo:
   dbport : 27018
   dbUrl: "https://awesome.uswest1.training-studio..mongodb"
-  dbUserName : "dbUserName"
-  dbPassword : "dbPassword11111111"
+  dbUserName : "@@dbUserName@@"
+  dbPassword : "@@dbPassword11111111@@"
 
 image:
   repository: sannrao/demo-devops-app
