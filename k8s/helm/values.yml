@@ -86,3 +86,8 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+alerts:
+  email:
+    admin-group: admin@sndevops.xyz
+    user-groud : users@sndevops.xyz
