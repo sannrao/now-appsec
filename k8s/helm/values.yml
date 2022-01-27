@@ -90,4 +90,4 @@ affinity: {}
 alerts:
   email:
     admin-group: admin@sndevops.xyz
-    user-groud : users@sndevops.xyz
+    user-group : users@sndevops.xyz
