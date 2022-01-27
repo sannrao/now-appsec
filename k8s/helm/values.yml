@@ -89,5 +89,5 @@ affinity: {}
 
 alerts:
   email:
-    admin-group: admin@sndevops.xyz
+    admin-group: admin@sndevops1.xyz
     user-group : users@sndevops.xyz
