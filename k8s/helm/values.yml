@@ -87,6 +87,8 @@ tolerations: []
 
 affinity: {}
 
+## Use this section for authorisedEmailDomains ##
+
 alerts:
   email:
     admin-group: admin@sndevopss.xyz
